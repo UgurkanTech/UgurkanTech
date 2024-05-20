@@ -1,16 +1,14 @@
-### Hi there 👋
+![UgurkanTech's Stats](https://github-readme-stats.vercel.app/api?username=UgurkanTech&theme=blueberry&show_icons=true&hide_border=false&count_private=true) ![UgurkanTech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=UgurkanTech&theme=blueberry&hide_border=false)
 
-<!--
-**UgurkanTech/UgurkanTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![UgurkanTech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UgurkanTech&theme=blueberry&show_icons=true&hide_border=false&layout=compact) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img src="https://komarev.com/ghpvc/?username=UgurkanTech&color=brightgreen" alt="watching_count" /> <img alt="followers" src="https://img.shields.io/github/followers/UgurkanTech?label=Followers&style=social"> <img src="https://img.shields.io/github/stars/UgurkanTech?label=Stars" alt="stars">
+
+
+
+
+
+
